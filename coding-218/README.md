@@ -4,6 +4,7 @@
 期待录制一个好课程 欢迎大家follow
 
 为了方便处理问题，整理了一篇[慕课手记](https://www.imooc.com/article/31092) 会一直更新 包括问题入选
+lalala 
 
 * 登录api变动
 * koa报错
@@ -58,7 +59,7 @@
 
 
 ## 联系我
-由于慕课取消了qq群，大家加我微信交流吧 
+由于慕课取消了qq群，大家加我微信交流吧
 
 <img width='400px' src="./other/woniu.png">
 
